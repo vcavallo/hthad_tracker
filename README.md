@@ -4,9 +4,9 @@ Tracker for 'How To Host A Dungeon' game
 ##***In Development...!***
 
 This will be a web app used to track the bookkeeping (non-drawn) parts of a game of [How To Host A Dungeon](http://planet-thirteen.com/Dungeon.aspx).  
-From the above website:  
+From the above website:
 
-    "How to Host a Dungeon is a solo game of dungeon creation where you build a dungeon through its history from the dawn of time"
+>"How to Host a Dungeon is a solo game of dungeon creation where you build a dungeon through its history from the dawn of time"
 
 The game requires plenty of drawing (fun!) but also lots of tracking and rule-consulting (not as fun).  
 The aim of this app will be to guide the process by:
