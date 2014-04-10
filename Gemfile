@@ -33,7 +33,12 @@ group :doc do
 end
 
 group :development, :test do
+  gem 'guard-rspec', require: false
+  gem 'capybara'
   gem 'rspec-rails'
+  gem 'factory_girl_rails'
+  gem 'selenium-webdriver'
+  gem 'database_cleaner'
 end
 
 # Use ActiveModel has_secure_password
