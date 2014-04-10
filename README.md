@@ -18,4 +18,4 @@ The aim of this app will be to guide the process by:
 
 I'm gonna go back to coding now. Thanks!
 
-### Feel free to get in touch! - @vinneycavallo
+### Feel free to get in touch! - [@vinneycavallo](http://www.twitter.com/vinneycavallo), [vcavallo@gmail.com](mailto:vcavallo@gmail.com)
